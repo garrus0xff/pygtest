@@ -1,0 +1,6 @@
+.venv
+.vscode
+*.csv
+*.jsonl
+*.egg-info
+*.pyc
